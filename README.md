@@ -11,7 +11,7 @@ A sleek and modern frontend template for your sneakers e-commerce website. The t
 ## Installation
 1. Clone the repository to your local machine:
 ``` 
-git clone https://github.com/AnshSharma2001/sneakers-ecommerce-frontend.git
+git clone https://github.com/AnshSharma2001/E-commerce.git
 ```
 2. Navigate to the directory:
 ``` 
